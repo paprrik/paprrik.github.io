@@ -26,7 +26,7 @@ My research interes include 3D vision, 3D reconstruction, Robotics and SLAM.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉 One paper is accepted by IROS 2024.
-- *2024.06*: &nbsp; I joined <img src='../images/logo_li.jpg' style='height: 3mm;'>Li Auto as an Autonomous Driving Algorithm Engineer.
+- *2023.06*: &nbsp; I joined <img src='../images/logo_li.jpg' style='height: 3mm;'>Li Auto as an Autonomous Driving Algorithm Engineer.
 
 # 📝 Publications 
 
@@ -42,6 +42,10 @@ Huayou Wang\*, **Qingyao Liu\***, et al.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+---
+
+- `Pattern Recognition Letters` [Learnable Chamfer Distance for Point Cloud Reconstruction](https://arxiv.org/abs/2312.16582), Tianxin Huang, **Qingyao Liu**, et al. | [Code](https://github.com/Tianxinhuang/LCDNet)
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
