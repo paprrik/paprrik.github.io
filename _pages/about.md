@@ -26,7 +26,7 @@ My research interes include 3D vision, 3D reconstruction, Robotics and SLAM.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉 One paper is accepted by IROS 2024.
-- *2024.06*: &nbsp; I joined <img src='../images/logo_li.jpg' style='width: 6em;'>Li Auto as an Autonomous Driving Algorithm Engineer.
+- *2024.06*: &nbsp; I joined <img src='../images/logo_li.jpg' style='height: 3mm;'>Li Auto as an Autonomous Driving Algorithm Engineer.
 
 # 📝 Publications 
 
@@ -36,7 +36,8 @@ My research interes include 3D vision, 3D reconstruction, Robotics and SLAM.
 CSR: A Lightweight Crowdsourced Road Structure Reconstruction System for Autonomous Driving
 
 Huayou Wang\*, **Qingyao Liu\***, et al.
-
+</div>
+</div>
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -58,4 +59,4 @@ Huayou Wang\*, **Qingyao Liu\***, et al.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.06 - 2022.09*, <img src='../images/logo_plus.png' style='width: 6em;'>[Plus](https://www.smartxtruck.com/technology.html), Suzhou, China.
+- *2022.06 - 2022.09*, <img src='../images/logo_plus.png' style='height: 4mm;'>[Plus](https://www.smartxtruck.com/technology.html), Suzhou, China.
