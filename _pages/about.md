@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Qingyao Liu (刘青瑶). After obtaining my master's degree, I worked for a year as an Autonomous Driving Algorithm Engineer at [Li Auto](https://www.lixiang.com/en/tech/autodrive?rt=95727506#li). I obtained a M.Eng. in Electronic Information from Zhejiang University in 2023, under the superviosion of [Prof. Yong Liu](https://april.zju.edu.cn/team/dr-yong-liu/) in [APRIL Lab](https://april.zju.edu.cn/). Before that, I earned a B.Eng. in Automation from Wuhan University in 2016. 
+My name is Qingyao Liu (刘青瑶). After obtaining my master's degree, I worked for a year as an Autonomous Driving Algorithm Engineer at [Li Auto](https://www.lixiang.com/en/tech/autodrive?rt=95727506#li). In 2023, I earned an M.Eng. in Electronic Information from Zhejiang University, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/team/dr-yong-liu/) in [APRIL Lab](https://april.zju.edu.cn/). Prior to that, I received a B.Eng. in Automation from Wuhan University in 2016. 
 
-My research interes include 3D vision, 3D reconstruction, Robotics and SLAM.
+My research interests include 3D Vision, 3D Reconstruction, Robotics, and SLAM.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -45,7 +45,7 @@ Huayou Wang\*, **Qingyao Liu\***, et al.
 
 ---
 
-- `Pattern Recognition Letters` [Learnable Chamfer Distance for Point Cloud Reconstruction](https://arxiv.org/abs/2312.16582), Tianxin Huang, **Qingyao Liu**, et al. | [Code](https://github.com/Tianxinhuang/LCDNet)
+- ``Pattern Recognition Letters`` [Learnable Chamfer Distance for Point Cloud Reconstruction](https://arxiv.org/abs/2312.16582), Tianxin Huang, **Qingyao Liu**, et al. | [Code](https://github.com/Tianxinhuang/LCDNet)
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
