@@ -45,7 +45,7 @@ Huayou Wang\*, **Qingyao Liu\***, et al.
 
 ---
 
-- [Learnable Chamfer Distance for Point Cloud Reconstruction](https://arxiv.org/abs/2312.16582), Tianxin Huang, **Qingyao Liu**, Xiangrui Zhao, Jun Chen, Yong Liu. ``Pattern Recognition Letters` `\| [Code](https://github.com/Tianxinhuang/LCDNet)
+- [Learnable Chamfer Distance for Point Cloud Reconstruction](https://arxiv.org/abs/2312.16582), Tianxin Huang, **Qingyao Liu**, Xiangrui Zhao, Jun Chen, Yong Liu. ``Pattern Recognition Letters`` \| [Code](https://github.com/Tianxinhuang/LCDNet)
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
