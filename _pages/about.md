@@ -29,13 +29,17 @@ My research interests include 3D Vision, 3D Reconstruction, Robotics, and SLAM.
 - *2023.06*: &nbsp; I joined <img src='../images/logo_li.jpg' style='height: 3mm;'>Li Auto as an Autonomous Driving Algorithm Engineer.
 
 # 📝 Publications 
-
+(* indicates equal contribution)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='../images/pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CSR: A Lightweight Crowdsourced Road Structure Reconstruction System for Autonomous Driving
+<font color=SkyBlue>CSR: A Lightweight Crowdsourced Road Structure Reconstruction System for Autonomous Driving</font>
 
 Huayou Wang\*, **Qingyao Liu\***, et al.
+
+_IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024_
+
+The paper has been accepted and will be published soon.
 </div>
 </div>
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
