@@ -39,7 +39,8 @@ Huayou Wang\*, **Qingyao Liu\***, et al.
 
 _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024_
 
-The paper has been accepted and will be published soon.
+
+The paper has been accepted and will be published soon. | [pdf](../docs/CSR_IROS24.pdf)
 </div>
 </div>
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -54,9 +55,10 @@ The paper has been accepted and will be published soon.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2020* Wuhan University Outstanding Graduate. 
-- *2018* The 14th National Smart Car Competition for College Students - **First Prize**.
-- *2018* Wuhan University Outstanding Student.
+- *2021* Academic Scholarship - Zhejiang University
+- *2020* Outstanding Graduate Award from Wuhan University. 
+- *2019* The 14th National Smart Car Competition for College Students - **Champion**. / [video](../video/finals.mp4)
+- *2016-2018* Outstanding Student Award & Scholarship from Wuhan University.
 
 # 📖 Educations
 - *2020.09 - 2023.03*, M.Eng., Zhejiang University, Hangzhou, China. 
