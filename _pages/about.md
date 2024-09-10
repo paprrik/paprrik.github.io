@@ -70,3 +70,7 @@ The paper has been accepted and will be published soon. | <a href="../images/IRO
 
 # 💻 Internships
 - *2022.06 - 2022.09*, <img src='../images/logo_plus.png' style='height: 4mm;'>[Plus](https://www.smartxtruck.com/technology.html), Suzhou, China.
+
+<p id="last-updated" style="text-align: right; font-size: 12px; color: #555;">
+  Last updated on: {{ page.last_modified_at | date: "%B %d, %Y" }}
+</p>
