@@ -40,7 +40,7 @@ Huayou Wang\*, **Qingyao Liu\***, et al.
 _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024_
 
 
-The paper has been accepted and will be published soon. | [pdf](../docs/CSR_IROS24.pdf)
+The paper has been accepted and will be published soon. | [pdf](../docs/CSR.pdf)
 </div>
 </div>
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
