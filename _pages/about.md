@@ -30,17 +30,17 @@ My research interests include 3D Vision, 3D Reconstruction, Robotics, and SLAM.
 
 # 📝 Publications 
 (* indicates equal contribution)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='../images/pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='../images/papers/CSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font color=SkyBlue>CSR: A Lightweight Crowdsourced Road Structure Reconstruction System for Autonomous Driving</font>
 
 Huayou Wang\*, **Qingyao Liu\***, et al.
 
-_IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024_
+_IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2024_
 
 
-The paper has been accepted and will be published soon. | <a href="../images/IROS2024/CSR.pdf" target="_blank"> PDF</a>
+The paper has been accepted and will be published soon. | <a href="../images/papers/CSR.pdf" target="_blank"> PDF</a>
 </div>
 </div>
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -49,8 +49,19 @@ The paper has been accepted and will be published soon. | <a href="../images/IRO
 </div> -->
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRL</div><img src='../images/papers/LCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Learnable Chamfer Distance for Point Cloud Reconstruction](https://arxiv.org/abs/2312.16582), Tianxin Huang, **Qingyao Liu**, Xiangrui Zhao, Jun Chen, Yong Liu. ``Pattern Recognition Letters`` \| [Code](https://github.com/Tianxinhuang/LCDNet)
+<font color=Black>Learnable Chamfer Distance for Point Cloud Reconstruction</font>
+
+Tianxin Huang, **Qingyao Liu**, Xiangrui Zhao, Jun Chen, Yong Liu.
+
+_Pattern Recognition Letters (**PRL**), 2024_
+
+
+<a href="../images/papers/LCD.pdf" target="_blank"> PDF</a> | [Code](https://github.com/Tianxinhuang/LCDNet)
+</div>
+</div>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
