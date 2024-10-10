@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Qingyao Liu (刘青瑶). After obtaining my master's degree, I worked for a year as an Autonomous Driving Algorithm Engineer at [Li Auto](https://www.lixiang.com/en/tech/autodrive?rt=95727506#li). In 2023, I earned an M.Eng. in Electronic Information from Zhejiang University, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/team/dr-yong-liu/) in [APRIL Lab](https://april.zju.edu.cn/). Prior to that, I received a B.Eng. in Automation from Wuhan University in 2016. 
+My name is Qingyao Liu (刘青瑶). After obtaining my master's degree, I worked for a year as an Autonomous Driving Algorithm Engineer at <img src='../images/logo_li.jpg' style='height: 3mm;'>[Li Auto](https://www.lixiang.com/en/tech/autodrive?rt=95727506#li). In 2023, I earned an M.Eng. in Electronic Information from Zhejiang University (ZJU), under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/team/dr-yong-liu/) in [APRIL Lab](https://april.zju.edu.cn/). Prior to that, I received a B.Eng. in Automation from Wuhan University (WHU) in 2016. 
 
 My research interests include 3D Vision, 3D Reconstruction, Robotics, and SLAM.
 
@@ -41,8 +41,6 @@ _IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**),
 
 
 The paper has been accepted and will be published soon. | <a href="../images/papers/CSR.pdf" target="_blank"> PDF</a>
-</div>
-</div>
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -60,8 +58,7 @@ _Pattern Recognition Letters (**PRL**), 2024_
 
 
 <a href="../images/papers/LCD.pdf" target="_blank"> PDF</a> | [Code](https://github.com/Tianxinhuang/LCDNet)
-</div>
-</div>
+
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -71,13 +68,12 @@ _Pattern Recognition Letters (**PRL**), 2024_
 - *2019* The 14th National Smart Car Competition for College Students - **Champion**. / [video](../video/finals.mp4)
 - *2016-2018* Outstanding Student Award & Scholarship from Wuhan University.
 
-# 📖 Educations
-- *2020.09 - 2023.03*, M.Eng., Zhejiang University, Hangzhou, China. 
-- *2016.09 - 2020.06*, B.Eng., Wuhan University, Wuhan, China.
+# 📖 Education & 💻 Work
+- *2023.06 - 2024.06*, Beijing, China, Full-time Job, Autonomous Driving Algorithm Engineer, <img src='../images/logo_li.jpg' style='height: 3mm;'>[Li Auto](https://www.lixiang.com/en/tech/autodrive?rt=95727506#li).
+- *2022.06 - 2022.09*, Suzhou, China, Internship, AI Algorithms Intern, <img src='../images/logo_plus.png' style='height: 4mm;'>[Plus](https://www.smartxtruck.com/technology.html).
+- *2020.09 - 2023.03*, Hangzhou, China, M.Eng., Zhejiang University (ZJU). 
+- *2016.09 - 2020.06*, Wuhan, China, B.Eng., Wuhan University (WHU).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internships
-- *2022.06 - 2022.09*, <img src='../images/logo_plus.png' style='height: 4mm;'>[Plus](https://www.smartxtruck.com/technology.html), Suzhou, China.
