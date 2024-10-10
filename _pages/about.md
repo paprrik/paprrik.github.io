@@ -41,12 +41,9 @@ _IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**),
 
 
 The paper has been accepted and will be published soon. | <a href="../images/papers/CSR.pdf" target="_blank"> PDF</a>
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div> -->
+</div>
 
----
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRL</div><img src='../images/papers/LCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,8 +55,8 @@ _Pattern Recognition Letters (**PRL**), 2024_
 
 
 <a href="../images/papers/LCD.pdf" target="_blank"> PDF</a> | [Code](https://github.com/Tianxinhuang/LCDNet)
-
-
+</div>
+</div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
@@ -73,7 +70,6 @@ _Pattern Recognition Letters (**PRL**), 2024_
 - *2022.06 - 2022.09*, Suzhou, China, Internship, AI Algorithms Intern, <img src='../images/logo_plus.png' style='height: 4mm;'>[Plus](https://www.smartxtruck.com/technology.html).
 - *2020.09 - 2023.03*, Hangzhou, China, M.Eng., Zhejiang University (ZJU). 
 - *2016.09 - 2020.06*, Wuhan, China, B.Eng., Wuhan University (WHU).
-
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
