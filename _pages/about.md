@@ -43,7 +43,6 @@ _IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**),
 The paper has been accepted and will be published soon. | <a href="../images/papers/CSR.pdf" target="_blank"> PDF</a>
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRL</div><img src='../images/papers/LCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,11 +64,8 @@ _Pattern Recognition Letters (**PRL**), 2024_
 - *2019* The 14th National Smart Car Competition for College Students - **Champion**. / [video](../video/finals.mp4)
 - *2016-2018* Outstanding Student Award & Scholarship from Wuhan University.
 
-# 📖 Education & 💻 Work
+# 📖 Education and Work
 - *2023.06 - 2024.06*, Beijing, China, Full-time Job, Autonomous Driving Algorithm Engineer, <img src='../images/logo_li.jpg' style='height: 3mm;'>[Li Auto](https://www.lixiang.com/en/tech/autodrive?rt=95727506#li).
 - *2022.06 - 2022.09*, Suzhou, China, Internship, AI Algorithms Intern, <img src='../images/logo_plus.png' style='height: 4mm;'>[Plus](https://www.smartxtruck.com/technology.html).
 - *2020.09 - 2023.03*, Hangzhou, China, M.Eng., Zhejiang University (ZJU). 
 - *2016.09 - 2020.06*, Wuhan, China, B.Eng., Wuhan University (WHU).
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
