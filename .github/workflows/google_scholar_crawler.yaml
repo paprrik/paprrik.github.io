@@ -19,11 +19,15 @@ jobs:
         pip3 install -r requirements.txt
         python3 main.py
         cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
+        if ls *.json 1> /dev/null 2>&1; then
+          git init
+          git config --local user.name "${GITHUB_ACTOR}"
+          export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git add *.json
+          git commit -m "Updated Citation Data"
+          git push "${remote_repo}" HEAD:google-scholar-stats --force
+        else
+          echo "No JSON files found, skipping Git operations."
+        fi
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
