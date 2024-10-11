@@ -5,6 +5,8 @@ from datetime import datetime
 import os
 
 google_scholar_id = os.getenv('GOOGLE_SCHOLAR_ID', None)
+os.makedirs('results', exist_ok=True)
+
 if google_scholar_id:
   author: dict = scholarly.search_author_id(google_scholar_id)
   scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
