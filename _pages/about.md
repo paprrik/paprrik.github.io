@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Qingyao Liu (刘青瑶). Now, I'm applying for a Ph.D. position in 2025. After obtaining my master's degree, I worked for a year as an Autonomous Driving Algorithm Engineer at <img src='../images/logo_li.jpg' style='height: 3mm;'>[Li Auto](https://www.lixiang.com/en/tech/autodrive?rt=95727506#li). In 2023, I earned an M.Eng. in Electronic Information from [Zhejiang University](http://www.zju.edu.cn/english/) (ZJU), under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/team/dr-yong-liu/) in [APRIL Lab](https://april.zju.edu.cn/). Prior to that, I received a B.Eng. in Automation from [Wuhan University](https://en.whu.edu.cn/) (WHU) in 2020. 
+My name is Qingyao Liu (刘青瑶). Now, I'm applying for a Ph.D. position. After obtaining my master's degree, I worked for a year as an Autonomous Driving Algorithm Engineer at <img src='../images/logo_li.jpg' style='height: 3mm;'>[Li Auto](https://www.lixiang.com/en/tech/autodrive?rt=95727506#li). In 2023, I earned an M.Eng. in Electronic Information from [Zhejiang University](http://www.zju.edu.cn/english/) (ZJU), under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/team/dr-yong-liu/) in [APRIL Lab](https://april.zju.edu.cn/). Prior to that, I received a B.Eng. in Automation from [Wuhan University](https://en.whu.edu.cn/) (WHU) in 2020. 
 
 My research interests include Computer Vision, Scene Reconstruction, Robotics, and SLAM.
 
@@ -39,8 +39,8 @@ Huayou Wang\*, **Qingyao Liu\***, Jiazheng Wu, Kun Liu, Chao Ding, Changliang Xu
 
 _IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2024_
 
-
-The paper has been accepted and will be published soon. | <a href="../images/papers/CSR.pdf" target="_blank"> Paper</a>
+[Paper](https://ieeexplore.ieee.org/document/10801299)
+<!-- The paper has been accepted and will be published soon. | <a href="../images/papers/CSR.pdf" target="_blank"> Paper</a> -->
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRL</div><img src='../images/papers/LCD.png' alt="sym" width="100%"></div></div>
